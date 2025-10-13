@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravind Reddy</h1> <h3 align="center">💻 Full Stack Engineer bridging 🔗 APIs and 🤖 AI</h3>
-<p align="center"> Passionate software developer with 4+ years of experience building microservices, web applications, and data-driven systems across diverse technologies. Skilled in designing scalable solutions and solving complex technical problems, with a constant drive for learning and innovation.
+<p align="center"> Passionate software developer, data engineer, and data scientist with 5+ years building microservices, web apps, and data/ML products. I design scalable data pipelines (batch/streaming), model clean analytics layers, and run practical experiments/models to drive decisions. Comfortable with Python/SQL/Java, Spark/Kafka/Databricks, Airflow/dbt, and Tableau/Power BI — focused on simple, reliable solutions and continuous learning.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aravind45code/github-iamge/main/githubimage.gif" width="700"/>
 </p>
